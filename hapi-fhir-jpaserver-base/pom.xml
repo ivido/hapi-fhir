@@ -9,6 +9,7 @@
 		<relativePath>../hapi-deployable-pom/pom.xml</relativePath>
 	</parent>
 
+	<groupId>nl.ivido.fhir</groupId>
 	<artifactId>hapi-fhir-jpaserver-base</artifactId>
 	<packaging>jar</packaging>
 
